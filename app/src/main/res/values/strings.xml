@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Verify PassMan</string>
+    <string name="login_button">LogIn</string>
+</resources>
